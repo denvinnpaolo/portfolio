@@ -1,5 +1,4 @@
-import React, { useState } from 'react'
-
+import React, { useState } from 'react';
 import Nav from './nav'
 
 const Header = props => {
