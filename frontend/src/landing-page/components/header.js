@@ -5,7 +5,7 @@ const Header = props => {
     const [welcome, setWelcome] = useState("Denvinn Paolo Magsino")
     return(
         <div>
-            <h1>{welcome}</h1>
+            <h1 id="name">{welcome}</h1>
             <Nav />
         </div>
     )

@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+#particles-js {
+  background-color: #000;
+  height: 100%;
+  width: 100%;
+}
+
+#name {
+  color: #ffffff;
+}
+
+#links {
+  color: #ffffff;
+  display: flex;
+}
