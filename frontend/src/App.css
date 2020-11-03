@@ -50,4 +50,5 @@
 #links {
   color: #ffffff;
   display: flex;
+  text-decoration: none;
 }
