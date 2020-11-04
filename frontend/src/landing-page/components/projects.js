@@ -9,7 +9,9 @@ const Projects = props => {
 
     return(
         <div>
-            {projects}
+            {projects.data_struct}
+            {projects.front}
+            {projects.back}
         </div>
     )
 }
