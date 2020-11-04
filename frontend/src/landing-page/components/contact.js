@@ -1,7 +1,11 @@
 import React, { useState } from 'react';
 
 const Contact = props => {
-    const [contact, setContact] = useState('Contact')
+    const [contact, setContact] = useState({
+        number: '818-404-5749',
+        email: 'denvinnpaolo@gmail.com',
+        address: 'Los Angeles, CA'
+    })
 
     return(
         <div>
