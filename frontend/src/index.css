@@ -4,7 +4,13 @@ body {
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  -moz-osx-font-smoothing: grayscale;;
+}
+
+#particles-js {
+  background-color: #000;
+  height: 100%;
+  width: 100%;
 }
 
 code {

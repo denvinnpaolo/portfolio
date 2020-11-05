@@ -6,7 +6,9 @@ import LandingPage from './landing-page/index.js';
 function App() {
   
   return (
-    <LandingPage />
+    <div>
+      <LandingPage />
+    </div>
   );
 }
 
