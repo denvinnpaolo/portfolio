@@ -5,7 +5,8 @@ const Contact = props => {
         number: '818-404-5749',
         email: 'denvinnpaolo@gmail.com',
         address: 'Los Angeles, CA',
-        linkdIn: 'https://www.linkedin.com/in/denvinn-magsino/'
+        linkdIn: 'https://www.linkedin.com/in/denvinn-magsino/',
+        git: 'https://github.com/denvinnpaolo'
     })
 
     return(
