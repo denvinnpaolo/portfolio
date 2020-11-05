@@ -9,8 +9,7 @@ const Header = props => {
 
     return(
         <div>
-            <h1 id="txts">{welcome.name}</h1>
-            <h2 id="txts">{welcome.occupation}</h2>
+
             <Nav />
         </div>
     )

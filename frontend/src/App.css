@@ -45,10 +45,31 @@
 
 #txts {
   color: #ffffff;
+  display: flex;
+  justify-content: center;
 }
 
-#links {
-  color: #ffffff;
+#main-container {
+  position: relative;
+  opacity: 0.8;
   display: flex;
-  text-decoration: none;
+  justify-content: center;
+  height: 100%;
+  align-items: center;
+  top:200px;
+
+}
+
+#container {
+  display:flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+}
+
+#container-mid {
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
 }
